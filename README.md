@@ -1,37 +1,41 @@
-# Privacy Policy for AWS Cloud Cert. Training
+#Privacy Policy for AWS Cloud Cert. Training Mobile Application
 
-*Last Updated: 25/10/2023*
+*Last Updated: 12/12/2023
 
-1. Introduction
+Thank you for using AWS Cloud Cert. Training! This Privacy Policy outlines how we collect, use, and share information when you use our mobile application ("App"). By using the App, you agree to the terms of this Privacy Policy.
 
-	Welcome to AWS Cert. Training, developed by dbmobilitystudio. This Privacy Policy is designed to help you understand how we collect, use, and safeguard information when you use our mobile application.
+1. Information We Collect
 
-2. Information We Collect
+1.1 Application Content Information: We may collect and store information related to your usage of the application, such as progress, scores, and preferences. This information is solely used to enhance your learning experience within the App.
 
-	We do not collect or store any personal information in AWS Cert. Training. Our app is designed solely for the purpose of providing information and resources related to AWS certification exams.
+1.2 Device Information: We may collect certain information about your mobile device, including the device model, operating system, and unique device identifiers. This information helps us to optimize and improve the performance of the App.
 
-3. Data Usage
+2. Information Usage
 
-	Our app does not gather, use, or share any personal data, including but not limited to names, addresses, phone numbers, or email addresses.
+2.1 Application Enhancement: The information collected is used to personalize your experience within the App, including providing customized content and features to meet your learning needs.
 
-4. Information Security
+2.2 Application Analytics: We may use analytics tools to analyze usage patterns, identify areas for improvement, and enhance the overall functionality and user experience of the App. These analytics do not involve the storage of personally identifiable information.
 
-	We take data security seriously, and we have implemented appropriate measures to safeguard any non-personal information that may be collected as a part of app usage.
+3. Information Sharing
 
-5. Third-Party Services
+3.1 Third-Party Services: We may share non-personal information with third-party services for the purpose of displaying advertisements within the App. These third-party services adhere to their own privacy policies and practices, and we encourage you to review their policies.
 
-	We may use third-party services such as analytics tools to help us understand how users interact with our app. These services may collect non-personal data such as device information and app usage patterns. However, they do not collect personal information.
+3.2 Legal Compliance: We may disclose information in response to a legal request if we believe that such action is necessary to comply with applicable laws, regulations, or legal processes.
 
-6. Contact Us
+4. Data Security
 
-	If you have any questions or concerns about this Privacy Policy or our app, please contact us at dbmobilitystudio@gmail.com.
+4.1 Data Security Measures: We employ industry-standard security measures to protect the information collected from unauthorized access, disclosure, alteration, and destruction.
 
-7. Changes to this Privacy Policy
+5. Your Choices
 
-	We may update this Privacy Policy to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes will be posted in the app, and the revised Privacy Policy will be effective immediately.
+5.1 Opt-Out of Advertising: You can opt-out of personalized advertising within the App by adjusting your device settings or preferences.
 
-8. Consent
+6. Updates to the Privacy Policy
 
-	By using AWS Cert. Training, you consent to the practices described in this Privacy Policy.
+6.1 Policy Changes: We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised policy in the App.
 
+7. Contact Us
 
+7.1 Questions or Concerns: If you have any questions or concerns regarding this Privacy Policy, please contact us at dbmobilitystudio@gmail.com.
+
+By using AWS Cloud Cert. Training, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
