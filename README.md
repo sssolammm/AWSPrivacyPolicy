@@ -1,4 +1,4 @@
-# Privacy Policy for AWS Cert. Training
+# Privacy Policy for AWS Cloud Cert. Training
 
 *Last Updated: 25/10/2023*
 
